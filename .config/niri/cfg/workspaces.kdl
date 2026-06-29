@@ -1,0 +1,3 @@
+workspace "general"
+workspace "code"
+workspace "chat"
