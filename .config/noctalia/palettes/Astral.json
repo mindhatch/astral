@@ -6,7 +6,7 @@
     "mOnSecondary": "#fad6da",
     "mTertiary": "#fe90b3",
     "mOnTertiary": "#1c2023",
-    "mError": "#cfaacc",
+    "mError": "#d76976",
     "mOnError": "#fad6da",
     "mSurface": "#332f50",
     "mOnSurface": "#7caa9d",
@@ -17,17 +17,17 @@
     "mHover": "#fe90b390",
     "mOnHover": "#acbebe",
     "terminal": {
-      "foreground": "#8d7da1",
+      "foreground": "#fad6da",
       "background": "#332f50",
       "selectionFg": "#1c2023",
       "selectionBg": "#fad6da",
-      "cursorText": "#8d7da1",
+      "cursorText": "#1c2023",
       "cursor": "#fe90b3",
       "normal": {
         "black": "#8d7da1",
         "red": "#fe90b3",
         "green": "#7caa9d",
-        "yellow": "#c7c795",
+        "yellow": "#f5e1c0",
         "blue": "#8190b1",
         "magenta": "#cfaacc",
         "cyan": "#acbebe",
@@ -37,11 +37,11 @@
         "black": "#8d7da1",
         "red": "#fe90b3",
         "green": "#7caa9d",
-        "yellow": "#c7c795",
+        "yellow": "#f5e1c0",
         "blue": "#8190b1",
         "magenta": "#cfaacc",
         "cyan": "#acbebe",
-        "white": "#f3f4f5"
+        "white": "#fad6da"
       }
     }
   },
@@ -52,7 +52,7 @@
     "mOnSecondary": "#fad6da",
     "mTertiary": "#fe90b3",
     "mOnTertiary": "#1c2023",
-    "mError": "#cfaacc",
+    "mError": "#d76976",
     "mOnError": "#fad6da",
     "mSurface": "#332f50",
     "mOnSurface": "#7caa9d",
@@ -63,17 +63,17 @@
     "mHover": "#fe90b390",
     "mOnHover": "#acbebe",
     "terminal": {
-      "foreground": "#8d7da1",
+      "foreground": "#fad6da",
       "background": "#332f50",
       "selectionFg": "#1c2023",
       "selectionBg": "#fad6da",
-      "cursorText": "#8d7da1",
+      "cursorText": "#1c2023",
       "cursor": "#fe90b3",
       "normal": {
         "black": "#8d7da1",
         "red": "#fe90b3",
         "green": "#7caa9d",
-        "yellow": "#c7c795",
+        "yellow": "#f5e1c0",
         "blue": "#8190b1",
         "magenta": "#cfaacc",
         "cyan": "#acbebe",
@@ -83,11 +83,11 @@
         "black": "#8d7da1",
         "red": "#fe90b3",
         "green": "#7caa9d",
-        "yellow": "#c7c795",
+        "yellow": "#f5e1c0",
         "blue": "#8190b1",
         "magenta": "#cfaacc",
         "cyan": "#acbebe",
-        "white": "#f3f4f5"
+        "white": "#fad6da"
       }
     }
   }
