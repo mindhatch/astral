@@ -6,7 +6,8 @@ binds {
     Mod+CTRL+Return                     { spawn "~/Scripts/foot-theme"; }
     Mod+CTRL+Space			            { spawn "fuzzel"; }
     Mod+Shift+B                         { spawn "zen-browser"; }
-    Mod+CTRL+B                          { spawn "helium-browser"; }
+    Mod+CTRL+B                          { spawn "floorp"; }
+    Mod+B                               { spawn "helium-browser"; }
     Mod+D				                { spawn "equibop"; }
     Mod+V				                { spawn "code"; }
     Mod+O				                { spawn "obsidian"; }
@@ -14,10 +15,8 @@ binds {
     Mod+X				                { spawn "kcalc"; }
     Mod+E                               { spawn "thunar"; }
     Mod+Z				                { spawn "~/Scripts/yazi"; }
-    Mod+Shift+S				            { spawn "spotify-launcher"; }
     Mod+Shift+C                         { spawn "~/Scripts/date-time"; }
     Mod+CTRL+P                          { spawn "~/Scripts/paint"; }
-    Mod+B                               { spawn "floorp"; }
 
     // ─── Media Controls ───
     XF86AudioRaiseVolume                allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.05+"; }
@@ -34,6 +33,9 @@ binds {
 
     // ─── Theme Switching ───
     Mod+Shift+1				            { spawn "~/Scripts/toggle-theme"; }
+    Mod+Shift+A                         { spawn "~/Scripts/sop-theme"; }
+    Mod+Shift+S                         { spawn "~/Scripts/astral-theme"; }
+    Mod+Shift+D                         { spawn "~/Scripts/ashes-theme"; }
 
     // ─── Window Movement and Focus ───
     Mod+Q                               { close-window; }
