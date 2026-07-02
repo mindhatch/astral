@@ -2,7 +2,7 @@
 order = [ "default" ]
 
     [bar.default]
-    background_opacity = 0.9
+    background_opacity = 0.4
     start = [ "workspaces", "clock_date", "clock_time" ]
     center = [
         "cat",
